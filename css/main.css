@@ -1,0 +1,67 @@
+html {
+    font-family: "Frutiger", Helvetica, Arial, sans-serif;
+    font-weight: 200;
+    font-size: 112.5%;
+}
+
+h1, h2 {
+    text-align: center;
+    padding: 0;
+    margin: auto;
+    position: absolute;
+    left: 0; right: 0; bottom: 0;
+}
+
+h1 {
+    font-family: "Frutiger Condensed", Helvetica, Arial, sans-serif;
+    font-size: 3.6rem;
+    line-height: 1;
+    height: 3.6rem;
+    font-weight: 800;
+    color: #3498db;
+    top: -4.6rem;
+    text-shadow: #444 1px 1px 2px;
+}
+
+h2 {
+    font-size: 3rem;
+    font-weight: 200;
+    color: #E8E8E8;
+    top: 4rem;
+    height: 3rem;
+    line-height: 1;
+    text-shadow: #444 -1px -1px 2px;
+}
+
+.top,
+.bottom {
+    height: 50%;
+    width: 100%;
+    position: absolute;
+    left: 0;
+}
+
+.top {
+    top: 0;
+    background: #E8E8E8;
+}
+
+.bottom {
+    bottom: 0;
+    background: #3498db;
+}
+
+.light-blue {
+    color: #3498db;
+}
+
+.logotype-dot {
+    margin-left: -0.1em;
+    margin-right: -0.05em;
+}
+
+@media screen and (max-width: 620px) {
+    html {
+        font-size: 75%;
+    }
+}

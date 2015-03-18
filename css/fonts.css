@@ -1,0 +1,18 @@
+@font-face{
+    font-family:"Frutiger";
+    font-weight: 200;
+    src:url("fonts/7d3671fc-8c26-459c-98e1-997c4f6c8c93.eot?#iefix");
+    src:url("fonts/7d3671fc-8c26-459c-98e1-997c4f6c8c93.eot?#iefix") format("eot"),
+        url("fonts/2a004a53-ac5c-43b3-9eeb-9f74ae4c1609.woff") format("woff"),
+        url("fonts/74d53f3b-1683-4d5a-a556-e13f6553cdf0.ttf") format("truetype"),
+        url("fonts/3f5a5b87-e71e-4544-be0c-da4daa132710.svg#3f5a5b87-e71e-4544-be0c-da4daa132710") format("svg");
+}
+@font-face{
+    font-family:"Frutiger Condensed";
+    font-weight: 800;
+    src:url("fonts/6169190e-4723-44d8-8512-87fe44314627.eot?#iefix");
+    src:url("fonts/6169190e-4723-44d8-8512-87fe44314627.eot?#iefix") format("eot"),
+        url("fonts/ba18b900-b949-4ac6-8be2-c708ee69faf7.woff") format("woff"),
+        url("fonts/e72f20b2-125d-49b5-ac55-9c84689e3a67.ttf") format("truetype"),
+        url("fonts/b010e56e-44d2-46cd-a494-22825e86adec.svg#b010e56e-44d2-46cd-a494-22825e86adec") format("svg");
+}
